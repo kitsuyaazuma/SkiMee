@@ -34,13 +34,6 @@ python main.py
 
 # Note
 
-
-# Author
-
-* Kitsuya Azuma  ( kitsuyaazuma@gmail.com )
-* Tohoku University
-
-
 # License
 
 "SkiMee" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
